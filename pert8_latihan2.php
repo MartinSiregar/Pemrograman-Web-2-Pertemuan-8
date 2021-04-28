@@ -16,8 +16,8 @@
     <!membandingkan 2 buah bilangan yang diinput>
       <?
 
-      $a = $_post["A"];
-      $b = $_post["B"];
+      $A = $_post["A"];
+      $B = $_post["B"];
       function jumlah($A, $B)
       {
         $jumlahbil = $A + $B;
